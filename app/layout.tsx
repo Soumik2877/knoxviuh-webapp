@@ -9,8 +9,8 @@ import TopNavbar from "@/components/ui/TopNavbar";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Agency Portfolio",
-  description: "High-end cinematic creative agency portfolio",
+  title: "KnoxViuh",
+  description: "Warriors of the Dark",
 };
 
 export default function RootLayout({
